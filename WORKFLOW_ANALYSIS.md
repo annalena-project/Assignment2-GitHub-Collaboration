@@ -18,6 +18,7 @@ The HTML validation step checks if there are any problems in the HTML code.
 
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
 Automated deployment is more reliable because it follows the same steps every time and reduces human mistakes.
+It also helps make sure the same steps are followed every time the website is updated.
 
 ## 6. What happens if one of the validation steps fails?
 If one of the validation steps fails, the website will not be deployed until the problem is fixed.
